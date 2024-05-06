@@ -12,7 +12,7 @@ takes place at Numérica. The goal of this project is to create an application w
 - Docker
 ## Project Description
 ---
-Lumelo is an application web that offers educational resources for learning music. The application offers 2 graphic styles, one classic and one more fun to facilitate learning for the youngest. Users will be able to create their own courses from within the application, with a function for creating.
+Lumelo is an application web that offers educational resources for learning music. The application offers 2 graphic styles, one classic and one more fun to facilitate learning for the youngest. Users will be able to create articles on the application with a function for creating.
 ## Prerequisites
 ---
 ## Installation
